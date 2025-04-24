@@ -27,7 +27,7 @@ Developed by: BHUVANESHWARI S
 RegisterNumber: 212222220008  
 */
 ```
-
+```
 import pandas as pd
 data = pd.read_csv("Employee (1).csv")
 data.head()
@@ -60,7 +60,7 @@ accuracy=metrics.accuracy_score(y_test,y_predict)
 accuracy
 
 dt.predict([[0.5,0.8,9,260,6,0,1,2]])****
-
+```
 ## Output:
 
 # DATA HEAD:
